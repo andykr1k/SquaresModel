@@ -1,0 +1,3 @@
+# Squares Model
+
+## Tech Stack
